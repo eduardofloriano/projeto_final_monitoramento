@@ -1,3 +1,18 @@
+# Logs Aplicação
+![Evidencia 1](evidencia_1_logs_app.JPG)
+
+# Logs Grafana Loki
+![Evidencia 2](evidencia_2_logs_grafana_loki.JPG)
+
+# Logs Grafana Prometheus
+![Evidencia 3](evidencia_3_logs_grafana_prometheus.JPG)
+
+# Logs JMeter 1T100R
+![Evidencia 4](evidencia_4_jmeter_1T100R_grafico.JPG)
+
+# Logs JMeter 100T100R
+![Evidencia 5](evidencia_5_jmeter_100T100R_grafico.JPG)
+
 # Montoramento de Sistemas - Projeto Final
 
 Neste projeto final vocês podem formar as mesmas equipes do proejto anterior.
