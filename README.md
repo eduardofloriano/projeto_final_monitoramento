@@ -13,11 +13,11 @@ Monitoramento Ativo - Usando o JMeter
  - Uma instância do Grafana
  - Uma aplicação Flask realizando operações CRUD em uma tabela de BD (GET, POST e DELETE)
  - Monitoramento da aplicação com o módulo do Prometheus (metrics)
- - Logs da aplicação com o m[odulo de logs do Python
+ - Logs da aplicação com o módulo de logs do Python
 
  Vocês podem se basear no repositório: https://github.com/gmcalixto/flask_loki
 
-Além da elaboraçaõ do projeto, devem ser coletadas as seguintes evidências (pode ser por prints e depois enviado ao repositório)
+Além da elaboração do projeto, devem ser coletadas as seguintes evidências (pode ser por prints e depois enviado ao repositório)
  - Geração de logs
  - Explore ou Dashbord de uma das métricas enviadas pelo Prometheus.
  - Explore ou Dashboard de uma das métricas geradas pelo Loki.
@@ -25,9 +25,11 @@ Além da elaboraçaõ do projeto, devem ser coletadas as seguintes evidências (
 2) Elaborar um repositório com monitoramento passivo com JMeter contendo
 
  - Uma instância do JMeter
- - Script de teste testando um endpoint GET da aplicação Flask com 1 thread e 100 requisições, com espaço de 10 milisegundos por disparo. Abrir o resultado do teste, capturar três gráficos e adicionar ao repositório.
+ - Script de teste testando um endpoint GET da aplicação Flask com 1 thread e 100 requisições, com espaço de 10 milisegundos por disparo. 
  - Script de teste testando um endpoint GET da aplicação Flask com 100 thread e 100 requisições, com espaço de 10 milisegundos por disparo.
  - Script de teste testando um endpoint POST da aplicação Flask com 100 thread e 100 requisições, com espaço de 10 milisegundos por disparo.
+
+Abrir o resultado de cada teste, capturar três gráficos e adicionar ao repositório.
 
 
   - Vocês podem se basear no repositório https://github.com/gmcalixto/jmeterdevops
